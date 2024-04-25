@@ -14,4 +14,4 @@ used with natural language processing methods.
     for field definitions:
 
 
-[alt text](<Screenshot 2024-04-25 185530.png>)
+![Screenshot 2024-04-25 185530](https://github.com/etimmons24/data-sourcing-challenge/assets/163076822/1b34d8e7-97c5-49fb-ba43-9246f0400d76)
